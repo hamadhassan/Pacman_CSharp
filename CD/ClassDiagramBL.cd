@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="PacMan_Game.BL.Cell">
+    <Position X="0.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAIAAAAAAIAAACAAAABgAGAAAAA=</HashCode>
+      <FileName>BL\Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacMan_Game.BL.Ghost">
+    <Position X="3" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAQQgEAAAIgACEgBAAgQgAAAQAJIJAAAJgAIAAgEA=</HashCode>
+      <FileName>BL\Ghost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacMan_Game.BL.Grid">
+    <Position X="8.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgAAQQAAAAACQAAQAAICAAAgAAAAAAAAAAAAAAIAAQA=</HashCode>
+      <FileName>BL\Grid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacMan_Game.BL.PacMan">
+    <Position X="5.5" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gKGAAAQgAAIAAAAAAEAIAgAAIQAAIAAAAABgAoAAAAA=</HashCode>
+      <FileName>BL\PacMan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
